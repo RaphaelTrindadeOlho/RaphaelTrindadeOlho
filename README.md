@@ -6,8 +6,9 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** e tenho um gran
 - 💼 **Interesses**: Desenvolvimento Web, Algoritmos e Inteligência Artificial.
 - 📫 **Contato**: raphaeltrindadeolho@gmail.com
 
-| ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelTrindadeOlho&theme=nightowl&show_icons=true) |
-|---|
+| ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelTrindadeOlho&theme=nightowl&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelTrindadeOlho&hide_progress=true&theme=nightowl) |
+|---|---|
+
 
 
 ## 🚀 Tecnologias que estudo no meu dia a dia
