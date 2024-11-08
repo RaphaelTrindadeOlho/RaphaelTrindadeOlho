@@ -6,8 +6,9 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** e tenho um gran
 - 💼 **Interesses**: Desenvolvimento Web, Algoritmos e Inteligência Artificial.
 - 📫 **Contato**: raphaeltrindadeolho@gmail.com
 
-| ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelTrindadeOlho&theme=nightowl&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelTrindadeOlho&hide_progress=true&theme=nightowl) | <img align="center" alt="GifRaphael" src="https://discord.com/channels/1304258162034999327/1304258162479861833/1304258231937536032" width="100px"/> |
-|---|---|---|
+| ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelTrindadeOlho&theme=nightowl&show_icons=true) |
+|---|
+
 
 ## 🚀 Tecnologias que estudo no meu dia a dia
 <div style="display: inline_block"><br>
@@ -25,3 +26,6 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** e tenho um gran
 ---
 
 👋 **Vamos nos conectar?** Sinta-se à vontade para entrar em contato se quiser colaborar em projetos ou trocar ideias! 😄
+<p align="center">
+  <img alt="GifRaphael" src="gifmaker_me.gif" width="200px" height="200px"/>
+</p>
