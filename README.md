@@ -26,7 +26,7 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** e tenho um gran
 
 ---
 
-👋 **Vamos nos conectar?** Sinta-se à vontade para entrar em contato se quiser colaborar em projetos ou trocar ideias! 😄
+👋 **Vamos nos conectar?** Sinta-se à vontade para entrar em contato se quiser colaborar em projetos ou trocar ideias!😄
 <p align="center">
   <img alt="GifRaphael" src="gifmaker_me.gif" width="200px" height="200px"/>
 </p>
