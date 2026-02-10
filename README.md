@@ -29,11 +29,12 @@ Aplicação Fullstack robusta focada em segurança e persistência de dados.
 * **Stack:** Node.js, Express e MongoDB.
 * **Destaque:** Implementação de autenticação segura com **JWT** e **Bcrypt**, além de modelagem de relacionamentos complexos no NoSQL.
 
+<!--
 #### 🤖 [Automações de Processos RH](https://github.com/RaphaelTrindadeOlho/automacoes-rh)
 Scripts desenvolvidos para otimizar rotinas administrativas reais.
 * **Stack:** Python (PyAutoGUI) e Google Apps Script.
 * **Impacto:** Redução de erros manuais em processos seletivos e preenchimento de planilhas de inventário.
-
+-->
 ---
 
 ### 🌱 No radar para 2026
