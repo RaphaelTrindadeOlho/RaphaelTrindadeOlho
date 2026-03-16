@@ -1,49 +1,43 @@
-# Olá, mundo! Eu sou o Raphael Trindade Olho 👋
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&text=Raphael%20Trindade&fontSize=35&fontAlignY=35&desc=Full-stack%20Development%20Student&descAlignY=60&fontColor=ffffff" alt="Raphael Trindade - Full-stack Development Student" />
+</h1>
 
-Sou um desenvolvedor em formação apaixonado por **Backend Engineering** e **Data Management**. Atualmente, estou no 4º semestre de **Desenvolvimento de Software Multiplataforma na FATEC Zona Leste**.
+<p align="center">
+  <b>A highly motivated, self-taught student currently in my 4th semester of Software Development at Fatec. Driven by intense curiosity, I'm exploring the entire software lifecycle, from intuitive Front-ends to robust Back-ends and automated Infrastructure.</b>
+</p>
+<p align="center">
+  <b>Actively mastering Linux, Bash Scripting, Docker, and Modern Web Tech on my Ubuntu workstation, with a focus on building efficient, scalable systems.</b>
+</p>
 
-No meu dia a dia profissional na **La Salle**, utilizo **Python** e **Google Apps Script** para automatizar fluxos administrativos, transformando processos manuais em soluções digitais eficientes.
-
----
-
-### 🛠️ Minha Stack Tecnológica
-
-**Linguagens & Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Bancos de Dados & Infra**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5odmprejl2Z215ZXNxMXNla2Z2Z3J3OWpid2cxNXhleHNwNjRoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8zV60TY2r1qE/giphy.gif" width="300" alt="Software Development Gif" />
+</p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🛠️ Tech Stack & Autodidactic Learning
 
-#### 📚 [Sistema de Gerenciamento de Mídia](https://github.com/RaphaelTrindadeOlho/Projeto-Autor)
-Aplicação Fullstack robusta focada em segurança e persistência de dados.
-* **Stack:** Node.js, Express e MongoDB.
-* **Destaque:** Implementação de autenticação segura com **JWT** e **Bcrypt**, além de modelagem de relacionamentos complexos no NoSQL.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,java,js,react,tailwind,mongodb,postgres,supabase,firebase,linux,bash,docker,git,github" alt="My Skills" />
+</p>
 
-<!--
-#### 🤖 [Automações de Processos RH](https://github.com/RaphaelTrindadeOlho/automacoes-rh)
-Scripts desenvolvidos para otimizar rotinas administrativas reais.
-* **Stack:** Python (PyAutoGUI) e Google Apps Script.
-* **Impacto:** Redução de erros manuais em processos seletivos e preenchimento de planilhas de inventário.
--->
----
-
-### 🌱 No radar para 2026
-* ☁️ Preparação para a certificação **AWS Cloud Practitioner**.
-* 🚀 Aprofundamento em **Arquitetura de Microserviços** e **DevOps**.
+> This stack represents technologies I've encountered in my college journey as well as those I've independently mastered through curiosity and proactive study.
 
 ---
 
+### 📫 Let's Connect!
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaeltrindadeolho)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaeltrindadeolho@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/raphaeltrindadeolho">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raphaeltrindadeolho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelTrindadeOlho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Raphael's GitHub Stats" />
+</p>
