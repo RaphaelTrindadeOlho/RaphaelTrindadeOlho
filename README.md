@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelTrindadeOlho&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raphael911&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
